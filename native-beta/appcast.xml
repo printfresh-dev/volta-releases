@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Volta Beta</title>
+    <item>
+      <title>Volta Beta 4</title>
+      <pubDate>Wed, 07 Oct 2026 16:53:38 -0400</pubDate>
+      <sparkle:version>0.1.4</sparkle:version>
+      <sparkle:shortVersionString>0.1.0-beta.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <enclosure url="https://github.com/printfresh-dev/volta-releases/releases/download/native-v0.1.0-beta.4/Volta-0.1.0-beta.4-arm64.zip" sparkle:edSignature="SZQrKjeDNMfA8MscnghUARc/fxufutI7R88MvKQmlUt8d4K1Nodv1Q5euSwSQV2In8ptUML52yHCLTLaF0xzAw==" length="6468021" type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
