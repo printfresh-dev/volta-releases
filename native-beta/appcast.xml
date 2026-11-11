@@ -3,13 +3,13 @@
   <channel>
     <title>Volta Beta</title>
     <item>
-      <title>Volta Beta 21</title>
-      <pubDate>Wed, 11 Nov 2026 10:07:02 -0500</pubDate>
-      <sparkle:version>0.1.21</sparkle:version>
-      <sparkle:shortVersionString>0.1.0-beta.21</sparkle:shortVersionString>
+      <title>Volta Beta 22</title>
+      <pubDate>Wed, 11 Nov 2026 10:51:25 -0500</pubDate>
+      <sparkle:version>0.1.22</sparkle:version>
+      <sparkle:shortVersionString>0.1.0-beta.22</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-      <enclosure url="https://github.com/printfresh-dev/volta-releases/releases/download/native-v0.1.0-beta.21/Volta-0.1.0-beta.21-arm64.zip" sparkle:edSignature="6d9vwL9+dEKVLhE3erch1FmFhuLgSMoNiKqhkfskap183/ZWRVBjP1pIn3RmmqtPo1Z8Fq2Y8PHcvt7SOTCpBg==" length="6791793" type="application/octet-stream" />
+      <enclosure url="https://github.com/printfresh-dev/volta-releases/releases/download/native-v0.1.0-beta.22/Volta-0.1.0-beta.22-arm64.zip" sparkle:edSignature="ay6X1HIqyqPXSMhkjhHwbVEJu92hjO38NfX+TWyZiTEnBRM7Os9Q/1DJFPP2JV7v9xlworuNrGqJGX/YAk4sCQ==" length="7904984" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
