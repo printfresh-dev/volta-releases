@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <title>Volta Beta</title>
+    <title>Volta</title>
     <item>
-      <title>Volta Beta 25</title>
-      <pubDate>Mon, 16 Nov 2026 11:21:47 -0500</pubDate>
-      <sparkle:version>0.1.25</sparkle:version>
-      <sparkle:shortVersionString>0.1.0-beta.25</sparkle:shortVersionString>
+      <title>Volta 1.0.0</title>
+      <pubDate>Mon, 16 Nov 2026 15:32:21 -0500</pubDate>
+      <sparkle:version>1.0.0</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-      <enclosure url="https://github.com/printfresh-dev/volta-releases/releases/download/native-v0.1.0-beta.25/Volta-0.1.0-beta.25-arm64.zip" sparkle:edSignature="8jcadn8SmPri3RZ78IwWiXb0UlhdD2V/901+D+A4HIUfw3wYY8CWhyDTYygkLRW6gAljAVwmaZ6vlZNf6GpxBQ==" length="7897185" type="application/octet-stream" />
+      <enclosure url="https://github.com/printfresh-dev/volta-releases/releases/download/native-v1.0.0/Volta-1.0.0-arm64.zip" sparkle:edSignature="cS9NWAs3hevHRYDEqcJmoUJoqbioJ6HIhkh2biT3lBsEeslwo5UT6xpvOW0o0l3BtovSr2Hx+oREdWmfbAyKBA==" length="7897181" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
